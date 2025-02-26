@@ -10,6 +10,7 @@
   --font-weight-content: 400;
   --like-main-body-color: none;
   --animation-color: #ff0000;
+  --animation-color-hover: #000;
   --background: repeating-linear-gradient(
           90deg,
           #d3d3d3 0px 2px,
