@@ -331,6 +331,10 @@ dialog::backdrop {
     width: 100%;
     min-width: 320px;
   }
+  .post__cover__watermark{
+    top: 23px;
+    right: 11px;
+  }
 
   .footer__button {
     flex-direction: column;
